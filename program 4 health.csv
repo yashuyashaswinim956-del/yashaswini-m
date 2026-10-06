@@ -1,0 +1,573 @@
+﻿Province,Year,Health Expenditure MCAD
+Ontario,1975,8000
+Ontario,1976,8519.9
+Ontario,1977,9045.5
+Ontario,1978,9543.5
+Ontario,1979,10127.5
+Ontario,1980,10680
+Ontario,1981,11360.8
+Ontario,1982,12032.2
+Ontario,1983,12735.2
+Ontario,1984,13447.7
+Ontario,1985,14328
+Ontario,1986,15167.3
+Ontario,1987,16035
+Ontario,1988,16958.4
+Ontario,1989,18010
+Ontario,1990,19111.8
+Ontario,1991,20285.5
+Ontario,1992,21533.1
+Ontario,1993,23041.6
+Ontario,1994,24362.3
+Ontario,1995,25745.8
+Ontario,1996,27169
+Ontario,1997,28865.1
+Ontario,1998,30741.2
+Ontario,1999,32548.1
+Ontario,2000,34343.1
+Ontario,2001,36239.7
+Ontario,2002,38508.4
+Ontario,2003,40936.9
+Ontario,2004,43477.6
+Ontario,2005,45913.3
+Ontario,2006,48691.5
+Ontario,2007,51609.7
+Ontario,2008,54729.1
+Ontario,2009,58215.7
+Ontario,2010,61735.8
+Ontario,2011,65609.3
+Ontario,2012,69525.3
+Ontario,2013,73752.1
+Ontario,2014,78362
+Ontario,2015,82441.8
+Ontario,2016,87202.9
+Ontario,2017,92173.2
+Ontario,2018,97349.1
+Quebec,1975,6000
+Quebec,1976,6297.6
+Quebec,1977,6665.7
+Quebec,1978,6976.6
+Quebec,1979,7366
+Quebec,1980,7679.5
+Quebec,1981,8058.1
+Quebec,1982,8475.4
+Quebec,1983,8932.3
+Quebec,1984,9419.4
+Quebec,1985,9936.9
+Quebec,1986,10426.1
+Quebec,1987,10933.4
+Quebec,1988,11537.6
+Quebec,1989,12114.7
+Quebec,1990,12654.9
+Quebec,1991,13228.2
+Quebec,1992,13841.7
+Quebec,1993,14581.6
+Quebec,1994,15335.2
+Quebec,1995,16169.8
+Quebec,1996,16959.5
+Quebec,1997,17837.4
+Quebec,1998,18802.4
+Quebec,1999,19731.7
+Quebec,2000,20782.5
+Quebec,2001,21773
+Quebec,2002,22843.3
+Quebec,2003,23964.1
+Quebec,2004,25042.3
+Quebec,2005,26379.7
+Quebec,2006,27662.4
+Quebec,2007,29074.1
+Quebec,2008,30626
+Quebec,2009,32255.4
+Quebec,2010,34006.8
+Quebec,2011,35723.4
+Quebec,2012,37468.7
+Quebec,2013,39363.6
+Quebec,2014,41037.9
+Quebec,2015,42832.7
+Quebec,2016,44732.7
+Quebec,2017,46789.8
+Quebec,2018,49268.3
+British Columbia,1975,3000
+British Columbia,1976,3170.8
+British Columbia,1977,3359.7
+British Columbia,1978,3588
+British Columbia,1979,3802.1
+British Columbia,1980,4049.8
+British Columbia,1981,4279.8
+British Columbia,1982,4538.5
+British Columbia,1983,4795.9
+British Columbia,1984,5082.5
+British Columbia,1985,5416.2
+British Columbia,1986,5702.3
+British Columbia,1987,6065.2
+British Columbia,1988,6445.2
+British Columbia,1989,6822.2
+British Columbia,1990,7192.2
+British Columbia,1991,7636.9
+British Columbia,1992,8086.1
+British Columbia,1993,8592.5
+British Columbia,1994,9121.6
+British Columbia,1995,9755.3
+British Columbia,1996,10343.2
+British Columbia,1997,10926
+British Columbia,1998,11607.4
+British Columbia,1999,12333.6
+British Columbia,2000,13175.5
+British Columbia,2001,14040.3
+British Columbia,2002,14928.3
+British Columbia,2003,15955.1
+British Columbia,2004,16840.9
+British Columbia,2005,17822.2
+British Columbia,2006,18835.1
+British Columbia,2007,19956.1
+British Columbia,2008,21045.3
+British Columbia,2009,22405.7
+British Columbia,2010,23758
+British Columbia,2011,25043.6
+British Columbia,2012,26455.7
+British Columbia,2013,28123.3
+British Columbia,2014,29969.8
+British Columbia,2015,32111.1
+British Columbia,2016,34552.6
+British Columbia,2017,36748
+British Columbia,2018,38824.9
+Alberta,1975,2800
+Alberta,1976,2931
+Alberta,1977,3103.3
+Alberta,1978,3268.9
+Alberta,1979,3449.9
+Alberta,1980,3637.5
+Alberta,1981,3843.9
+Alberta,1982,4085.2
+Alberta,1983,4323
+Alberta,1984,4567.9
+Alberta,1985,4806.6
+Alberta,1986,5042.4
+Alberta,1987,5319.7
+Alberta,1988,5623.8
+Alberta,1989,5996.5
+Alberta,1990,6344.8
+Alberta,1991,6740.4
+Alberta,1992,7110.7
+Alberta,1993,7477
+Alberta,1994,7870.4
+Alberta,1995,8293.9
+Alberta,1996,8858.5
+Alberta,1997,9330.9
+Alberta,1998,9905.9
+Alberta,1999,10430.1
+Alberta,2000,11077.7
+Alberta,2001,11735.3
+Alberta,2002,12400.1
+Alberta,2003,13109.8
+Alberta,2004,13819.8
+Alberta,2005,14644.4
+Alberta,2006,15915.7
+Alberta,2007,17234.2
+Alberta,2008,18657.3
+Alberta,2009,20337.3
+Alberta,2010,22315.9
+Alberta,2011,24323.9
+Alberta,2012,26477.7
+Alberta,2013,28877.4
+Alberta,2014,31646.3
+Alberta,2015,33498.6
+Alberta,2016,35353.7
+Alberta,2017,37579.8
+Alberta,2018,39818.7
+Manitoba,1975,1200
+Manitoba,1976,1260
+Manitoba,1977,1314.5
+Manitoba,1978,1362.1
+Manitoba,1979,1410.5
+Manitoba,1980,1481.9
+Manitoba,1981,1557.4
+Manitoba,1982,1622
+Manitoba,1983,1687.6
+Manitoba,1984,1771.4
+Manitoba,1985,1836.6
+Manitoba,1986,1906.2
+Manitoba,1987,1993.1
+Manitoba,1988,2073.6
+Manitoba,1989,2161.4
+Manitoba,1990,2251.2
+Manitoba,1991,2350.3
+Manitoba,1992,2466.4
+Manitoba,1993,2572
+Manitoba,1994,2689.2
+Manitoba,1995,2775.5
+Manitoba,1996,2892.4
+Manitoba,1997,3002.7
+Manitoba,1998,3111.6
+Manitoba,1999,3229.7
+Manitoba,2000,3361.1
+Manitoba,2001,3518.8
+Manitoba,2002,3644.5
+Manitoba,2003,3799.4
+Manitoba,2004,3951.1
+Manitoba,2005,4112
+Manitoba,2006,4306.8
+Manitoba,2007,4500.8
+Manitoba,2008,4721.5
+Manitoba,2009,4917.8
+Manitoba,2010,5109
+Manitoba,2011,5319.7
+Manitoba,2012,5551.5
+Manitoba,2013,5791.5
+Manitoba,2014,6005.4
+Manitoba,2015,6262.5
+Manitoba,2016,6534.9
+Manitoba,2017,6893.9
+Manitoba,2018,7250.6
+Saskatchewan,1975,1100
+Saskatchewan,1976,1166.1
+Saskatchewan,1977,1239.5
+Saskatchewan,1978,1310.2
+Saskatchewan,1979,1390.7
+Saskatchewan,1980,1482.4
+Saskatchewan,1981,1586.8
+Saskatchewan,1982,1683.2
+Saskatchewan,1983,1786.1
+Saskatchewan,1984,1881.9
+Saskatchewan,1985,2001.5
+Saskatchewan,1986,2119.7
+Saskatchewan,1987,2250.6
+Saskatchewan,1988,2385.7
+Saskatchewan,1989,2538.2
+Saskatchewan,1990,2679.3
+Saskatchewan,1991,2832.2
+Saskatchewan,1992,3044.7
+Saskatchewan,1993,3221.2
+Saskatchewan,1994,3411
+Saskatchewan,1995,3662
+Saskatchewan,1996,3951
+Saskatchewan,1997,4182.3
+Saskatchewan,1998,4443.9
+Saskatchewan,1999,4737.6
+Saskatchewan,2000,5083.6
+Saskatchewan,2001,5385.9
+Saskatchewan,2002,5726.1
+Saskatchewan,2003,6117.1
+Saskatchewan,2004,6524.3
+Saskatchewan,2005,6932.1
+Saskatchewan,2006,7595
+Saskatchewan,2007,8272.8
+Saskatchewan,2008,9059.5
+Saskatchewan,2009,9919.7
+Saskatchewan,2010,10887
+Saskatchewan,2011,11904.5
+Saskatchewan,2012,13080.1
+Saskatchewan,2013,14408.2
+Saskatchewan,2014,15807.6
+Saskatchewan,2015,16853.3
+Saskatchewan,2016,17943
+Saskatchewan,2017,19098.4
+Saskatchewan,2018,20259.3
+Nova Scotia,1975,900
+Nova Scotia,1976,954.5
+Nova Scotia,1977,1010.4
+Nova Scotia,1978,1080.6
+Nova Scotia,1979,1152.9
+Nova Scotia,1980,1223.2
+Nova Scotia,1981,1290.7
+Nova Scotia,1982,1359.7
+Nova Scotia,1983,1448.1
+Nova Scotia,1984,1535.5
+Nova Scotia,1985,1629.8
+Nova Scotia,1986,1711.8
+Nova Scotia,1987,1820.8
+Nova Scotia,1988,1932.4
+Nova Scotia,1989,2035.7
+Nova Scotia,1990,2151.1
+Nova Scotia,1991,2280.9
+Nova Scotia,1992,2416.1
+Nova Scotia,1993,2555.2
+Nova Scotia,1994,2704.7
+Nova Scotia,1995,2860.9
+Nova Scotia,1996,3032
+Nova Scotia,1997,3233.3
+Nova Scotia,1998,3382.7
+Nova Scotia,1999,3578.4
+Nova Scotia,2000,3792.8
+Nova Scotia,2001,4022.3
+Nova Scotia,2002,4252.3
+Nova Scotia,2003,4466
+Nova Scotia,2004,4736.9
+Nova Scotia,2005,5057.4
+Nova Scotia,2006,5317.1
+Nova Scotia,2007,5653.9
+Nova Scotia,2008,5978.4
+Nova Scotia,2009,6329.5
+Nova Scotia,2010,6669.8
+Nova Scotia,2011,7052.4
+Nova Scotia,2012,7514.5
+Nova Scotia,2013,7980
+Nova Scotia,2014,8520.2
+Nova Scotia,2015,9073.3
+Nova Scotia,2016,9628.8
+Nova Scotia,2017,10281.1
+Nova Scotia,2018,10910.5
+New Brunswick,1975,800
+New Brunswick,1976,851
+New Brunswick,1977,900.5
+New Brunswick,1978,954.5
+New Brunswick,1979,1008.1
+New Brunswick,1980,1073.2
+New Brunswick,1981,1130.9
+New Brunswick,1982,1202.8
+New Brunswick,1983,1273.4
+New Brunswick,1984,1356.8
+New Brunswick,1985,1442.8
+New Brunswick,1986,1542
+New Brunswick,1987,1639.6
+New Brunswick,1988,1724.5
+New Brunswick,1989,1826.8
+New Brunswick,1990,1925.1
+New Brunswick,1991,2034.9
+New Brunswick,1992,2171.7
+New Brunswick,1993,2308.2
+New Brunswick,1994,2437.8
+New Brunswick,1995,2570.9
+New Brunswick,1996,2724.7
+New Brunswick,1997,2870.7
+New Brunswick,1998,3032.3
+New Brunswick,1999,3217.9
+New Brunswick,2000,3428.4
+New Brunswick,2001,3643.3
+New Brunswick,2002,3818.9
+New Brunswick,2003,4052.5
+New Brunswick,2004,4295.7
+New Brunswick,2005,4560.8
+New Brunswick,2006,4869.7
+New Brunswick,2007,5109.9
+New Brunswick,2008,5399.6
+New Brunswick,2009,5737.6
+New Brunswick,2010,6034.5
+New Brunswick,2011,6439
+New Brunswick,2012,6835
+New Brunswick,2013,7271.7
+New Brunswick,2014,7684.7
+New Brunswick,2015,8174.4
+New Brunswick,2016,8705.7
+New Brunswick,2017,9235.1
+New Brunswick,2018,9796.8
+Newfoundland and Labrador,1975,700
+Newfoundland and Labrador,1976,731.2
+Newfoundland and Labrador,1977,759.6
+Newfoundland and Labrador,1978,791.9
+Newfoundland and Labrador,1979,825.5
+Newfoundland and Labrador,1980,862.7
+Newfoundland and Labrador,1981,904.3
+Newfoundland and Labrador,1982,938.6
+Newfoundland and Labrador,1983,978.6
+Newfoundland and Labrador,1984,1028.1
+Newfoundland and Labrador,1985,1068.7
+Newfoundland and Labrador,1986,1110.5
+Newfoundland and Labrador,1987,1159.6
+Newfoundland and Labrador,1988,1214.6
+Newfoundland and Labrador,1989,1267.1
+Newfoundland and Labrador,1990,1330.3
+Newfoundland and Labrador,1991,1393.5
+Newfoundland and Labrador,1992,1459.6
+Newfoundland and Labrador,1993,1526.7
+Newfoundland and Labrador,1994,1610.4
+Newfoundland and Labrador,1995,1678.3
+Newfoundland and Labrador,1996,1734
+Newfoundland and Labrador,1997,1822.8
+Newfoundland and Labrador,1998,1897.4
+Newfoundland and Labrador,1999,1980.4
+Newfoundland and Labrador,2000,2078.9
+Newfoundland and Labrador,2001,2152.1
+Newfoundland and Labrador,2002,2231.6
+Newfoundland and Labrador,2003,2310.1
+Newfoundland and Labrador,2004,2400.7
+Newfoundland and Labrador,2005,2509.7
+Newfoundland and Labrador,2006,2624.7
+Newfoundland and Labrador,2007,2741.7
+Newfoundland and Labrador,2008,2840.8
+Newfoundland and Labrador,2009,2930.7
+Newfoundland and Labrador,2010,3058.1
+Newfoundland and Labrador,2011,3183
+Newfoundland and Labrador,2012,3327.8
+Newfoundland and Labrador,2013,3483.3
+Newfoundland and Labrador,2014,3636.2
+Newfoundland and Labrador,2015,3807.1
+Newfoundland and Labrador,2016,3975.9
+Newfoundland and Labrador,2017,4158.2
+Newfoundland and Labrador,2018,4323.2
+Prince Edward Island,1975,200
+Prince Edward Island,1976,210.1
+Prince Edward Island,1977,221.1
+Prince Edward Island,1978,233.3
+Prince Edward Island,1979,244.8
+Prince Edward Island,1980,258
+Prince Edward Island,1981,270.9
+Prince Edward Island,1982,284.6
+Prince Edward Island,1983,300.4
+Prince Edward Island,1984,312.8
+Prince Edward Island,1985,326.8
+Prince Edward Island,1986,341.1
+Prince Edward Island,1987,354.6
+Prince Edward Island,1988,371.6
+Prince Edward Island,1989,392
+Prince Edward Island,1990,411.5
+Prince Edward Island,1991,433
+Prince Edward Island,1992,457.6
+Prince Edward Island,1993,484.1
+Prince Edward Island,1994,508.7
+Prince Edward Island,1995,538.2
+Prince Edward Island,1996,566
+Prince Edward Island,1997,592.6
+Prince Edward Island,1998,621.2
+Prince Edward Island,1999,648.4
+Prince Edward Island,2000,678.8
+Prince Edward Island,2001,712.4
+Prince Edward Island,2002,751.8
+Prince Edward Island,2003,796.8
+Prince Edward Island,2004,832.1
+Prince Edward Island,2005,876.4
+Prince Edward Island,2006,916.8
+Prince Edward Island,2007,966
+Prince Edward Island,2008,1014.9
+Prince Edward Island,2009,1057.6
+Prince Edward Island,2010,1116.7
+Prince Edward Island,2011,1170.6
+Prince Edward Island,2012,1227.5
+Prince Edward Island,2013,1283.9
+Prince Edward Island,2014,1345.5
+Prince Edward Island,2015,1417.3
+Prince Edward Island,2016,1488.6
+Prince Edward Island,2017,1567.4
+Prince Edward Island,2018,1650.6
+Yukon,1975,50
+Yukon,1976,52.8
+Yukon,1977,55.3
+Yukon,1978,57.6
+Yukon,1979,60.7
+Yukon,1980,63.6
+Yukon,1981,67.1
+Yukon,1982,70.5
+Yukon,1983,73.9
+Yukon,1984,77.7
+Yukon,1985,82.3
+Yukon,1986,87.2
+Yukon,1987,91.5
+Yukon,1988,96.1
+Yukon,1989,101.4
+Yukon,1990,106
+Yukon,1991,111.4
+Yukon,1992,116.9
+Yukon,1993,122.8
+Yukon,1994,128.3
+Yukon,1995,133.6
+Yukon,1996,138.8
+Yukon,1997,144.9
+Yukon,1998,151.7
+Yukon,1999,159
+Yukon,2000,168.4
+Yukon,2001,177.6
+Yukon,2002,185.5
+Yukon,2003,195
+Yukon,2004,204.2
+Yukon,2005,214
+Yukon,2006,224.7
+Yukon,2007,236.5
+Yukon,2008,247.8
+Yukon,2009,261.3
+Yukon,2010,272.7
+Yukon,2011,286.1
+Yukon,2012,303.9
+Yukon,2013,319.2
+Yukon,2014,337.2
+Yukon,2015,354
+Yukon,2016,372.5
+Yukon,2017,390.7
+Yukon,2018,409.6
+Northwest Territories,1975,80
+Northwest Territories,1976,84.7
+Northwest Territories,1977,90.2
+Northwest Territories,1978,95.5
+Northwest Territories,1979,101.9
+Northwest Territories,1980,108.9
+Northwest Territories,1981,116
+Northwest Territories,1982,123.2
+Northwest Territories,1983,131.3
+Northwest Territories,1984,139.4
+Northwest Territories,1985,148.9
+Northwest Territories,1986,156.9
+Northwest Territories,1987,166.5
+Northwest Territories,1988,175.4
+Northwest Territories,1989,185.2
+Northwest Territories,1990,198.2
+Northwest Territories,1991,211.6
+Northwest Territories,1992,224.2
+Northwest Territories,1993,236.7
+Northwest Territories,1994,248.1
+Northwest Territories,1995,263.1
+Northwest Territories,1996,282.9
+Northwest Territories,1997,301.4
+Northwest Territories,1998,319.6
+Northwest Territories,1999,340.5
+Northwest Territories,2000,359.4
+Northwest Territories,2001,381.6
+Northwest Territories,2002,405.9
+Northwest Territories,2003,431.4
+Northwest Territories,2004,460.4
+Northwest Territories,2005,490.3
+Northwest Territories,2006,522.9
+Northwest Territories,2007,554.1
+Northwest Territories,2008,591.6
+Northwest Territories,2009,633.8
+Northwest Territories,2010,670.8
+Northwest Territories,2011,710.2
+Northwest Territories,2012,759.8
+Northwest Territories,2013,807.1
+Northwest Territories,2014,863.7
+Northwest Territories,2015,916.3
+Northwest Territories,2016,980.8
+Northwest Territories,2017,1043.4
+Northwest Territories,2018,1110.7
+Nunavut,1975,
+Nunavut,1976,
+Nunavut,1977,
+Nunavut,1978,
+Nunavut,1979,
+Nunavut,1980,
+Nunavut,1981,
+Nunavut,1982,
+Nunavut,1983,
+Nunavut,1984,
+Nunavut,1985,
+Nunavut,1986,
+Nunavut,1987,
+Nunavut,1988,
+Nunavut,1989,
+Nunavut,1990,
+Nunavut,1991,
+Nunavut,1992,
+Nunavut,1993,
+Nunavut,1994,
+Nunavut,1995,
+Nunavut,1996,
+Nunavut,1997,
+Nunavut,1998,
+Nunavut,1999,250
+Nunavut,2000,266
+Nunavut,2001,280.4
+Nunavut,2002,294.8
+Nunavut,2003,310.7
+Nunavut,2004,328.8
+Nunavut,2005,344.7
+Nunavut,2006,365.1
+Nunavut,2007,384.6
+Nunavut,2008,408.4
+Nunavut,2009,426.4
+Nunavut,2010,448.6
+Nunavut,2011,470
+Nunavut,2012,494.4
+Nunavut,2013,522.7
+Nunavut,2014,551.6
+Nunavut,2015,581.8
+Nunavut,2016,614
+Nunavut,2017,649.1
+Nunavut,2018,682.2
